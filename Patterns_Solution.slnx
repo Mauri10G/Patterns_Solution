@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Mediator/">
+    <Project Path="Chat/Chat.csproj" />
+  </Folder>
+</Solution>
